@@ -3,9 +3,8 @@
 
 * Soy Oscar Juseph Guarin Rivas de Colombia, 20 años de edad
 * Tengo un enfoque en aprender y manejar los lenguajes de programación y desarrollar mi logica de programación
-* Aprendiendo Java, Python
+* Aprendiendo Java, Python 
 * Correo: jpluz@gmail.com 🕷️
 
 
-
-(https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py)](https://skillicons.dev)
