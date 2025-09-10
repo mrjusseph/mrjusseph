@@ -1,4 +1,4 @@
-  <img src="https://i.ibb.co/TDPk5Gxk/Captura-de-pantalla-41.png" alt="Captura-de-pantalla-41" border="0">
+  <img src="https://i.ibb.co/ksNrZphB/Captura-de-pantalla-43.png" alt="Captura-de-pantalla-43" border="0">
 
 # Soy Juseph Guarin 🕸️
 
